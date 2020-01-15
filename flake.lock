@@ -2,9 +2,9 @@
     "inputs": {
         "nixpkgs": {
             "inputs": {},
-            "narHash": "sha256-NB+H7zK3BB//zM127FqgbG4iAfY+nS/IOyO+uGWA5Ho=",
-            "originalUrl": "nixpkgs",
-            "url": "github:edolstra/nixpkgs/7845bf5f4b3013df1cf036e9c9c3a55a30331db9"
+            "narHash": "sha256-PsUDzuwfbWQrdiU7jDMpBA2eLkHbjACobDReR7Osho8=",
+            "originalUrl": "github:demyanrogozhin/nixpkgs/47f887927adde9905d3baf3a37c7dfabbcff55ee",
+            "url": "github:demyanrogozhin/nixpkgs/47f887927adde9905d3baf3a37c7dfabbcff55ee"
         }
     },
     "version": 3
